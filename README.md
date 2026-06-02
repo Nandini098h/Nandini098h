@@ -10,7 +10,7 @@
 
 <p>
 🎓 Informatics Student at Universitas Negeri Padang <br>
-📊 Data Science Learner <br>
+📊 Data Science <br>
 🐍 Python Enthusiast <br>
 🚀 Building Projects & Expanding Skills
 </p>
@@ -55,12 +55,6 @@ Collection of data analysis and visualization projects.
 
 ### 💻 Academic Programming Projects
 Programming assignments and practical projects developed during university studies.
-
----
-
-## 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nandini098h&show_icons=true&theme=tokyonight"/>
 
 ---
 
