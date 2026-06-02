@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=9b59b6&text=Nandini%20Putri&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff&desc=Informatics%20Student%20%7C%20Data%20Science%20Learner&descAlignY=60"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Science+Learner;Python+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Science;Python+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 # 💜 Welcome to My GitHub Profile 💜
