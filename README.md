@@ -93,6 +93,14 @@ Programming assignments and practical projects developed during university studi
 <img src="https://img.shields.io/badge/Email-8e44ad?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/Nandini Putri">
+<img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/nandiniputrip">
+<img src="https://img.shields.io/badge/Instagram-8e44ad?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
