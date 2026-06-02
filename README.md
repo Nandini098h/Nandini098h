@@ -60,18 +60,7 @@ Programming assignments and practical projects developed during university studi
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandini098h&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini098h&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini098h&theme=tokyo-night"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Nandini098h&show_icons=true&theme=tokyonight"/>
 
 ---
 
@@ -93,7 +82,7 @@ Programming assignments and practical projects developed during university studi
 <img src="https://img.shields.io/badge/Email-8e44ad?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Nandini Putri">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/nandini-putri-4bb3343a6">
 <img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
